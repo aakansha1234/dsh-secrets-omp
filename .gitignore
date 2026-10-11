@@ -1,0 +1,8 @@
+node_modules/
+lib/
+*.tgz
+.env
+.env.*
+!.env.example
+.dsh/
+secret-placeholder.key
